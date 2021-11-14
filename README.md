@@ -1,4 +1,5 @@
 # Quiz-game-by-python3
+Hi all, I'm currently a Freshman student in Data Science and I'm keen on learning new things. I would be heavenly happy, if you guys can leave comments about my performance on these tasks! Thank You!
 def new_game():
     guesses = []
     correct_guess = 0
